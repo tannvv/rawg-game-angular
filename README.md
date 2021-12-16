@@ -25,3 +25,14 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Functional
+
+### Main page
+![Image](https://github.com/tannvv/rawg-game-angular-freecodecamp/blob/main/screenshot/detail-page.png)
+### Filer with genre
+![Image of Yaktocat](https://github.com/tannvv/rawg-game-angular-freecodecamp/blob/main/screenshot/filter-genre.png)
+### Detail of game
+![Image of Yatocat](https://github.com/tannvv/rawg-game-angular-freecodecamp/blob/main/screenshot/detail-page.png)
+### More detail with screenshot of game selected
+![Image of Yaktocat](https://github.com/tannvv/rawg-game-angular-freecodecamp/blob/main/screenshot/more-detail.png)
